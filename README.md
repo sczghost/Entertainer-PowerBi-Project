@@ -1,4 +1,3 @@
-# Entertainer-PowerBi-Project 
 # 🎬 Entertainer Analytics Project
 
 ## 📖 Overview
