@@ -1,10 +1,4 @@
 # Entertainer-PowerBi-Project 
-Perfect ✅ A **README.md** should be concise, clear, and give visitors a quick overview of your project, files, and how to use them.
-
-Here’s a **ready-to-use summary** for your GitHub repository:
-
----
-
 # 🎬 Entertainer Analytics Project
 
 ## 📖 Overview
@@ -106,7 +100,3 @@ This repo includes:
 ---
 
 ✨ Developed with **Power BI**, **Excel**, and **DAX**.
-
----
-
-Would you like me to also add a **short badge-style section** at the top (like `Made with Power BI`, `License`, `Status: Completed`) to make your GitHub page look more professional?
